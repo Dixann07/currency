@@ -1,0 +1,12 @@
+
+> currency@0.0.0 dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v5.1.4  ready in 281 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+4:22:48 PM [vite] .env changed, restarting server...
+4:22:48 PM [vite] server restarted.
